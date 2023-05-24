@@ -1238,7 +1238,7 @@ body {
     margin: 0 auto;
     padding: 0;
     list-style: none;
-    gap: 12%; /* This will add space between the items */
+    gap: 15%; /* This will add space between the items */
     padding-bottom: 20%;
 }
 
@@ -1259,7 +1259,7 @@ body {
 }
 
 .about--options>a:nth-child(1) {
-    background-image: url("../img/office.png")
+    background-image: url("../img/about-winners.jpg")
 }
 
 .about--options>a:nth-child(2) {
